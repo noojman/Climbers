@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 4fcf7ef270f5e4049b1257b3ac13da5a
+timeCreated: 1475450345
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SoulMarker_Light_Handwriting_
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6ff5b1f04dece7440b6f0886ee13f147
+labels:
+- Weather
+- Rain
+- Light
+- Mist
+- Sound
+- Looping
+- Wind
+- Seamless
+- Fade
+timeCreated: 1428868856
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

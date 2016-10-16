@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8b3f347c5b1e34b498ed7ccd912fc389
+timeCreated: 1474010686
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - debris: {fileID: 198000011748688404, guid: 661b83ebc8cc4ed41be841b15d4834ef, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
